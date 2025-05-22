@@ -21,6 +21,6 @@ spec:
   - name: step-02
     try:
     - error:
-        file: validatingadmissionpolicy.yaml
+        file: validatin.yaml
     - error:
         file: validatingadmissionpolicybinding.yaml
